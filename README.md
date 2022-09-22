@@ -41,12 +41,11 @@ Hi👋, my name is Michael and I'm a Software Engineer.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=michaelpaulinus&theme=gruvbox&border_radius=4.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpaulinus&layout=compact&theme=gruvbox)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpaulinus&layout=compact&theme=gruvbox) -->
 
 #
 
-<details>
- <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
+### 👨‍💻 Michael's Coding Journey
 I'm a BSc(Eng) in Electronic Engineering graduate from the University of KwaZulu-Natal. My coding journey begun in my 1st year at University. I was introduced to action-oriented programming using C. In my 2nd and 3rd year, I began learning more concepts such as object-oriented programming using Java and C++. I've also had experience on projects with Python, JavaScript and Solidity. At my current job, my main language of use is MATLAB.
 
 #
