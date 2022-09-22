@@ -47,7 +47,9 @@ Hi👋, my name is Michael and I'm a Software Engineer.
  <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
 I'm a BSc(Eng) in Electronic Engineering graduate from the University of KwaZulu-Natal. My coding journey begun in my 1st year at University. I was introduced to action-oriented programming using C. In my 2nd and 3rd year, I began learning more concepts such as object-oriented programming using Java and C++. I've also had experience on projects with Python, JavaScript and Solidity. At my current job, my main language of use is MATLAB.
 
-## 💬 Connect with me : 
+#
+
+### 💬 Connect with me : 
 
 <a href="https://www.linkedin.com/in/michaelpaulinus/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
@@ -60,4 +62,4 @@ I'm a BSc(Eng) in Electronic Engineering graduate from the University of KwaZulu
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaelpaulinus.vistor-badge)
 
 
-![website]: https://michaelpaulinus.github.io
+<!-- ![website]: https://michaelpaulinus.github.io -->
