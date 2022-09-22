@@ -43,7 +43,6 @@ I enjoy software development and have worked on multiple projects using several 
 ![GitHub Streak](https://streak-stats.demolab.com?user=michaelpaulinus&theme=gruvbox&border_radius=4.5)
 
 #
-
 <details>
  <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
 Coding Journey
