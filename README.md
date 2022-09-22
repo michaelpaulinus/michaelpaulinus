@@ -41,6 +41,8 @@ Hi👋, my name is Michael and I'm a Software Engineer.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=michaelpaulinus&theme=gruvbox&border_radius=4.5)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpaulinus&layout=compact&theme=gruvbox)
+
 #
 
 <details>
