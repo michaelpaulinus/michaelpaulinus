@@ -43,8 +43,9 @@ I enjoy software development and have worked on multiple projects using several 
 ![GitHub Streak](https://streak-stats.demolab.com?user=michaelpaulinus&theme=gruvbox&border_radius=4.5)
 
 #
+
 <details>
  <summary><h3>👨‍💻 Michael's Coding Journey</h3></summary>
-Coding Journey
+My first experience of coding was at University. I was introduced to action-oriented programming using C. In my 2nd and 3rd year, I began learning more concepts such as object-oriented programming using Java and C++. I've also had experience with Python, JavaScript and Solidity. At my current job, my main language of use is MATLAB.
 
 [website]: https://michaelpaulinus.github.io
