@@ -1,4 +1,4 @@
-# 🏄‍♂️ Michael Paulinus
+# ⚡ Michael Paulinus ⚡
 
 **`Software Engineer`**
 
@@ -40,7 +40,7 @@ I enjoy software development and have worked on multiple projects using several 
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpaulinus&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=michaelpaulinus&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=michaelpaulinus&theme=gruvbox&border_radius=4.5)
 
 #
 
