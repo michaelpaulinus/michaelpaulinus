@@ -50,7 +50,7 @@ I'm a BSc(Eng) in Electronic Engineering graduate from the University of KwaZulu
 
 #
 
-### 💬 Connect with me : 
+### 💬 Reach out to me 
 
 <a href="https://www.linkedin.com/in/michaelpaulinus/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
@@ -59,6 +59,9 @@ I'm a BSc(Eng) in Electronic Engineering graduate from the University of KwaZulu
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
 
+# 
+
+### 👀 Profile Visits 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaelpaulinus.vistor-badge)
 
